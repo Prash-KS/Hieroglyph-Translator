@@ -13,7 +13,7 @@ The CNN model showed some promising results and was able to classify the hierogl
 # Future Work
 The pre-trained GPT model used in this project was not able to generate sentences perfectly, as it had not been custom trained for the specific requirements of our project. While it provided useful translations, the results could have been more accurate and contextually appropriate with further fine-tuning on a dataset tailored to hieroglyphs and their meanings.
 
-![YOLO Detection Example]("Sample Images/yolo_example.png")
+![YOLO Detection Example](image/yolo_example.png)
 
 Dataset Expansion: The current dataset is limited, and adding more hieroglyph images with accurate annotations would greatly improve both detection and classification performance.
 Fine-Tuning GPT: The GPT model used here wasn't tailored to hieroglyphs. Future work could involve fine-tuning it with a specialized dataset to improve translation accuracy.
