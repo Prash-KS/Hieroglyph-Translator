@@ -16,5 +16,7 @@ The pre-trained GPT model used in this project was not able to generate sentence
 ![YOLO Detection Example](image/yolo_example.png)
 
 Dataset Expansion: The current dataset is limited, and adding more hieroglyph images with accurate annotations would greatly improve both detection and classification performance.
+
 Fine-Tuning GPT: The GPT model used here wasn't tailored to hieroglyphs. Future work could involve fine-tuning it with a specialized dataset to improve translation accuracy.
+
 Multimodal Models: Combining visual and textual data could enhance translation accuracy by understanding the context better, leading to more reliable translations.
