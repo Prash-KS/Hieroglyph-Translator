@@ -3,6 +3,10 @@ This research-based project focuses on the translation of ancient Egyptian hiero
 
 This project adopted a detection-classification pipeline due to the unavailability of a publicly accessible dataset for ancient hieroglyphs. While a sequence-to-sequence approach for direct sentence generation was initially considered, the lack of comprehensive data with annotations for such tasks made it impractical.
 
-The original dataset of individual hieroglyph images used for this project was sourced from [here](https://github.com/morrisfranken/glyphreader). It is compiled by Morris Franken
+# Dataset
+The original dataset of individual hieroglyph images used for this project was sourced from [here](https://github.com/morrisfranken/glyphreader). It is compiled by Morris Franken, each hieroglyph is manually annotated and labelled according the Gardiner Sign List.
 Total Images = 4210 
 Total Classes = 171
+
+Since the dataset lacked bounding box annotations required for YOLOv8, all images were manually annotated using Roboflow to define regions of interest for detection tasks.
+
