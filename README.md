@@ -8,13 +8,15 @@ The original dataset of individual hieroglyph images used for this project was s
 
 Since the dataset lacked bounding box annotations required for YOLOv8, all images were manually annotated using Roboflow to define regions of interest for detection tasks.
 
-The CNN model showed some promising results and was able to classify the hieroglyphs fairly well. However, the limited amount of data available for such a complex task impacted the performance of the YOLO model. Although YOLO managed to detect the regions of interest, the lack of enough training data resulted in less accurate detections, making it harder for the model to generalize across different images. As a result, the detection quality wasn’t as high as expected.
-
 # Future Work
-The pre-trained GPT model used in this project was not able to generate sentences perfectly, as it had not been custom trained for the specific requirements of our project. While it provided useful translations, the results could have been more accurate and contextually appropriate with further fine-tuning on a dataset tailored to hieroglyphs and their meanings.
+
+The CNN model showed some promising results and was able to classify the hieroglyphs fairly well. However, the limited amount of data available for such a complex task impacted the performance of the YOLO model. Although YOLO managed to detect the regions of interest, the lack of enough training data resulted in less accurate detections, making it harder for the model to generalize across different images. As a result, the detection quality wasn’t as high as expected.
 
 ![YOLO Detection Example](image/yolo_example.png)
 
+The pre-trained GPT model used in this project was not able to generate sentences perfectly, as it had not been custom trained for the specific requirements of our project. While it provided useful translations, the results could have been more accurate and contextually appropriate with further fine-tuning on a dataset tailored to hieroglyphs and their meanings.
+
+## Improvement and further exploration:
 Dataset Expansion: The current dataset is limited, and adding more hieroglyph images with accurate annotations would greatly improve both detection and classification performance.
 
 Fine-Tuning GPT: The GPT model used here wasn't tailored to hieroglyphs. Future work could involve fine-tuning it with a specialized dataset to improve translation accuracy.
