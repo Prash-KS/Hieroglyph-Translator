@@ -3,8 +3,6 @@ This research-driven project aims to translate ancient Egyptian hieroglyphs into
 
 The decision to use a detection-classification approach was made because there is no publicly available dataset for hieroglyphs that would allow for a sequence-to-sequence model. Although we initially considered using a sequence-to-sequence method to generate sentences directly, the lack of sufficient annotated data for this type of task made it an impractical solution.
 
-The models for CNN and YOLO are provided, and the combined code with GPT for the translation pipeline can be found in the 'Text Generation/final.ipynb' notebook.
-
 # Dataset
 The original dataset of individual hieroglyph images used for this project was sourced from [here](https://github.com/morrisfranken/glyphreader). It is compiled by Morris Franken, each hieroglyph is manually annotated and labelled according the Gardiner Sign List.
 
