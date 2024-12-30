@@ -1,0 +1,10 @@
+# Path to the images and labels directories
+path: /kaggle/input/dataset1/dataset1
+train: /kaggle/input/dataset1/dataset1/images/train  # Path to the training images
+val: /kaggle/input/dataset1/dataset1/images/train     # Path to the validation images
+
+# Number of classes
+nc: 1
+
+# List of class names
+names: ['hieroglyph']

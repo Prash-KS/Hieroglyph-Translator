@@ -1,0 +1,1113 @@
+Gardiner Code,Description
+A,
+A1,seated man
+A2,man with hand to mouth
+A3,man sitting on heel
+A4,seated man with hands raised
+A5,crouching man hiding behind wall
+A5A,seated man hiding behind wall
+A6,seated man under vase from which water flows
+A6A,"seated man reaching for libation stone, under vase from which water flows"
+A6B,"seated man reaching down, under vase from which water flows"
+A7,fatigued man
+A8,man performing hnw-rite
+A9,man steadying basket on head
+A10,seated man holding oar
+A11,seated man holding scepter of authority and shepherd's crook
+A12,soldier with bow and quiver
+A13,man with arms tied behind his back
+A14,falling man with blood streaming from his head
+A14A,man whose head is hit with an axe
+A15,man falling
+A16,man bowing down
+A17,child sitting with hand to mouth
+A17A,child sitting with arms hanging down
+A18,child wearing red crown
+A19,bent man leaning on staff
+A20,man leaning on forked staff
+A21,man holding staff with handkerchief
+A22,statue of man with staff and scepter of authority
+A23,king with staff and mace with round head
+A24,man striking with both hands
+A25,"man striking, with left arm hanging behind back"
+A26,man with one arm pointing forward
+A27,hastening man
+A28,man with hands raised on either side
+A29,man upside down
+A30,man with hands raised in front
+A31,man with hands raised behind him
+A32,man dancing with arms to the back
+A32A,man dancing with arms to the front
+A33,man with stick and bundle on shoulder
+A34,man pounding in a mortar
+A35,man building wall
+A36,man kneading into vessel
+A37,man in vessel
+A38,man holding necks of two emblematic animals with panther heads
+A39,man on two giraffes
+A40,seated god
+A40A,seated god with Was-sceptre
+A41,king with uraeus
+A42,king with uraeus and flagellum
+A42A,king with uraeus and flagellum
+A43,king wearing white crown
+A43A,king wearing white crown with sceptre
+A44,king wearing white crown with flagellum
+A45,king wearing red crown
+A45A,king wearing red crown with sceptre
+A46,king wearing red crown with flagellum
+A47,"shepherd seated and wrapped in mantle, holding stick"
+A48,beardless man seated and holding knife
+A49,seated Syrian holding stick
+A50,noble on chair
+A51,noble on chair with flagellum
+A52,noble squatting with flagellum
+A53,standing mummy
+A54,lying mummy
+A55,mummy on bed
+A56,seated man holding stick
+A57,man holding loaf on mat
+A58,man applying hoe to ground
+A59,man threatening with stick
+A60,man sowing seeds
+A61,man looking over his shoulder
+A62,Asiatic
+A63,king on throne holding staff
+A64,man sitting on heels holding forward cup
+A65,man wearing tunic with fringes and holding mace
+A66,man holding sistrum
+A67,dwarf
+A68,man holding up knife
+A69,seated man with raised right arm and left arm hanging down
+A70,seated man with raised arms
+B,
+B1,seated woman
+B2,pregnant woman
+B3,woman giving birth
+B4,combination of woman giving birth and three skins tied together
+B5,woman suckling child
+B5A,woman suckling child (simplified)
+B6,woman on chair with child on lap
+B7,queen wearing diadem and holding flower
+B8,woman holding lotus flower
+B9,woman holding sistrum
+C,
+C1,god with sun-disk and uraeus
+C2,god with falcon head and sun-disk holding ankh
+C2A,god with falcon head and sun-disk
+C2B,god with falcon head and sun-disk
+C2C,god with falcon head and sun-disk holding ankh
+C3,god with ibis head
+C4,god with ram head
+C5,god with ram head holding ankh
+C6,god with jackal head
+C7,god with Seth-animal head
+C8,"ithyphallic god with two plumes, uplifted arm and flagellum"
+C9,goddess with horned sun-disk
+C10,goddess with feather
+C10A,goddess with feather holding ankh
+C11,god with arms supporting the sky and palm branch on head
+C12,god with two plumes and scepter
+C13,god with two plumes and scepter
+C14,god with two plumes and scimitar
+C15,god with two plumes and scimitar
+C16,god wearing red crown with ankh
+C17,god with falcon head and two plumes
+C18,squatting god
+C19,mummy-shaped god
+C20,mummy-shaped god in shrine
+C21,Bes
+C22,god with falcon head and moon
+C23,goddess with feline head and sun with uraeus
+C24,god wearing red crown with scepter
+D,
+D1,head
+D2,face
+D3,hair
+D4,eye
+D5,eye touched up with paint
+D6,eye with painted upper lid
+D7,eye with painted lower lid
+D8,eye enclosed in sandy tract
+D8A,eye with painted lower lid enclosed in sandy tract
+D9,eye with flowing tears
+D10,Eye of Horus
+D11,left part of the eye of Horus
+D12,pupil
+D13,eyebrow
+D14,right part of eye of Horus
+D15,diagonal marking of eye of Horus
+D16,vertical marking of eye of Horus
+D17,diagonal and vertical markings of eye of Horus
+D18,ear
+D19,"nose, eye and cheek"
+D20,"nose, eye and cheek (cursive)"
+D21,mouth
+D22,mouth with two strokes
+D23,mouth with three strokes
+D24,upper lip with teeth
+D25,lips
+D26,liquid issuing from lips
+D27,small breast
+D27A,large breast
+D28,two arms upraised
+D29,combination of hieroglyphs D28 and R12
+D30,two arms upraised with tail
+D31,arms embracing club
+D31A,two arms uppraised and club
+D32,arms embracing
+D33,arms rowing
+D34,armswith shieldand battle axe
+D34A,arms with shield and mace
+D35,arms in gesture of negation
+D36,forearm (palm upwards)
+D37,forearm with bread cone
+D38,forearm with rounded loaf
+D39,forearm with bowl
+D40,forearm with stick
+D41,forearm with palm down and bent upper arm
+D42,forearm with palm down and straight upper arm
+D43,forearm with flail
+D44,arm with sekhem scepter
+D45,arm with wand
+D46,hand
+D46A,liquid falling from hand
+D47,hand with palm up
+D48,hand without thumb
+D48A,hand holding egg
+D49,fist
+D50,one finger
+D50A,two fingers
+D50B,three fingers
+D50C,four fingers
+D50D,five fingers
+D50E,six fingers
+D50F,seven fingers
+D50G,eight fingers
+D50H,nine fingers
+D50I,five fingers (row)
+D51,one finger (horizontal)
+D52,phallus
+D52A,phallus with folded cloth
+D53,phallus with emission
+D54,legs walking
+D54A,hieratic legs walking
+D55,legs walking backwards
+D56,leg
+D57,leg with knife
+D58,foot
+D59,foot and forearm
+D60,foot under vase from which water flows
+D61,three toes oriented leftward
+D62,three toes oriented rightward
+D63,two toes oriented leftward
+D64,hand with palm down
+D65,lock of hair
+D66,arm with reed pen
+D67,one dot
+D67A,two dots
+D67B,three dots
+D67C,four dots
+D67D,five dots
+D67E,six dots
+D67F,seven dots
+D67G,eight dots
+D67H,nine dots
+E,
+E1,bull
+E2,bull charging
+E3,calf
+E4,sacred cow
+E5,cow suckling calf
+E6,horse
+E7,donkey
+E8,kid
+E8A,kid jumping
+E9,newborn hartebeest
+E9A,mature bovine lying down
+E10,ram
+E11,ram
+E12,pig
+E13,cat
+E14,dog
+E15,lying canine
+E16,lying canine on shrine
+E16A,lying canine on shrine with flagellum
+E17,jackal
+E17A,jackal looking back
+E18,wolf on standard
+E19,wolf on standard with mace
+E20,Set-animal
+E20A,Set-animal on basket
+E21,lying Set-animal
+E22,lion
+E23,lying lion
+E24,panther
+E25,hippopotamus
+E26,elephant
+E27,giraffe
+E28,oryx
+E28A,oryx with irrigation system
+E29,gazelle
+E30,ibex
+E31,goat with collar
+E32,baboon
+E33,monkey
+E34,hare
+E34A,hare (low)
+E36,baboon
+E37,baboon with receptacle and basket
+E38,long-horned bull
+F,
+F1,ox head
+F1A,bovine head
+F2,charging ox head
+F3,hippopotamus head
+F4,forepart of lion
+F5,hartebeest head
+F6,forepart of hartebeest
+F7,ram head
+F8,forepart of ram
+F9,leopardhead
+F10,head and neck of animal
+F11,head and neck of animal
+F12,head and neck of animal
+F13,horns
+F13A,horns
+F14,horns with palm branch
+F15,horns with palm branch and sun
+F16,horn
+F17,horn and vase from which water flows
+F18,tusk
+F19,lower jaw-bone of ox
+F20,tongue
+F21,ear of bovine
+F21A,hieratic ear of bovine
+F22,hind-quarters of lion
+F23,forelegof ox
+F24,forelegof ox
+F25,leg ofox
+F26,skin of goat
+F27,skin of cow with bent tail
+F28,skin of cow with straight tail
+F29,cow's skin pierced by arrow
+F30,water-skin
+F31,three skins tied together
+F31A,three skins tied together
+F32,animal's belly
+F33,tail
+F34,heart
+F35,heart andwindpipe
+F36,lung and windpipe
+F37,backbone and ribs and spinal cord
+F37A,backbone and ribs
+F38,backbone and ribs
+F38A,backbone and ribs and spinal cord
+F39,backbone and spinal cord
+F40,backbone and spinal cords
+F41,vertebrae
+F42,rib
+F43,ribs
+F44,bone with meat
+F45,uterus
+F45A,uterus
+F46,intestine
+F46A,intestine
+F47,intestine
+F47A,intestine
+F48,intestine
+F49,intestine
+F50,combination of F46 and S29
+F51,piece of flesh
+F51A,three pieces of flesh horizontally
+F51B,three pieces of flesh vertically
+F51C,piece of flesh
+F52,excrement
+F53,divine rod with ram head
+G,
+G1,Egyptian vulture
+G2,two Egyptian vultures
+G3,combination of Egyptian vulture and sickle
+G4,buzzard
+G5,falcon
+,
+,
+G6,combination of falcon and flaggellum
+G6A,falcon on basket
+G7,falcon on standard
+G7A,falcon in boat
+G7B,falcon in boat
+G8,falcon on collar of beads
+G9,falcon with sun on head
+G10,falcon in Sokar barque
+G11,image of falcon
+G11A,image of falcon on standard
+G12,combination of image of falcon and flagellum
+G13,image of falcon with two plumes
+G14,vulture
+G15,combination of vulture and flagellum
+G16,vulture and cobra each on a basket
+G17,owl
+G18,two owls
+G19,combination of owl and forearm with conical loaf
+G20,combination of owl and forearm
+G20A,combination of owl and mouth
+G21,guineafowl
+G22,hoopoe
+G23,lapwing
+G24,lapwing with twisted wings
+G25,northern bald ibis
+G26,sacred Ibis on standard
+G26A,sacred Ibis
+G27,flamingo
+G28,glossy ibis
+G29,saddle-billed stork
+G30,three saddle-billed storks
+G31,heron
+G32,heron on perch
+G33,cattle egret
+G34,ostrich
+G35,cormorant
+G36,swallow
+G36A,swallow (low)
+G37,sparrow
+G37A,sparrow (low)
+G38,white-fronted goose
+G39,pintail
+G40,pintail flying
+G41,pintail alighting
+G42,widgeon
+G43,quail chick
+G43A,combination of quail chick and flat loaf
+G44,two quail chicks
+G45,combination of quail chick and forearm
+G45A,combination of quail chick and forearm with conical loaf
+G46,combination of quail chick and sickle
+G47,duckling
+G48,three ducklings in nest
+G49,three ducklings in pool
+G50,two plovers
+G51,bird pecking at fish
+G52,goose picking up grain
+G53,human-headed bird with bowl with smoke
+G54,plucked bird
+H,
+H3,head of spoonbill
+H4,head of vulture
+H5,wing
+H6,feather
+H6A,hieratic feather
+H7,claw
+H8,egg
+I,
+I1,gecko
+I2,turtle
+I3,crocodile
+I4,crocodileon shrine
+I5,crocodile with curved tail
+I5A,image of crocodile
+I6,crocodile scales
+I7,frog
+I8,tadpole
+I9,horned viper
+I9A,horned viper crawling out of enclosure
+I10,cobra in repose
+I10A,cobra with feather
+I11,two cobras
+I11A,"combination of cobra, flat loaf and sandy tract"
+I12,cobra erect as on the forehead of the Pharaoh
+I13,erect cobra on basket
+I14,snake
+I15,snake
+K,
+K1,tilapia
+K2,barbel
+K3,mullet
+K4,elephant-snout fish
+K5,Petrocephalus bane
+K6,fish scale
+K7,puffer
+K8,catfish
+L,
+L1,dung beetle
+L2,bee
+L2A,"combination of bee, sedge and two flat loafs"
+L3,fly
+L4,locust
+L5,centipede
+L6,shell
+L6A,shell
+L7,scorpion
+L8,
+M,
+M1,tree
+M1A,combination of tree and branch
+M1B,combination of tree and horned viper
+M2,plant
+M3,branch
+M3A,combination of owl and branch
+M4,palm branch
+M5,combination of palm branch and flat loaf
+M6,combination of palm branch and mouth
+M7,combination of palm branch and stool
+M8,pool with lotus flowers
+M9,lotus flower
+M10,lotus bud with straight stem
+M10A,lotus bud with winding stem
+M11,flower on long twisted stalk
+M12,one lotus plant
+M12A,two lotus plants
+M12B,three lotus plants
+M12C,four lotus plants
+M12D,five lotus plants
+M12E,six lotus plants
+M12F,seven lotus plants
+M12G,eight lotus plants
+M12H,nine lotus plants
+M13,papyrusstem
+M14,combination of papyrus and cobra
+M15,clump of papyrus with buds
+M15A,combination of clump of papyrus with buds and village
+M16,clump of papyrus
+M16A,combination of clump of papyrus and village
+M17,reed
+M17A,two reeds
+M18,combination of reed and legs walking
+M19,heaped conical cakes between reed and club
+M20,field of reeds
+M21,reeds with root
+M22,rush
+M22A,two rushes
+M23,sedge
+M24,combination of sedge and mouth
+M24A,lily
+M25,combination of flowering sedge and mouth
+M26,floweringsedge
+,
+,
+M27,combination of flowering sedge and forearm
+M28,combination of flowering sedge and hobble
+M28A,three lilies on village
+M29,seed-pod
+M30,root
+M31,rhizome
+M31A,tree in vase
+M32,rhizome
+M33,3 grains horizontally
+M33A,3 grains vertically
+M33B,3 grains in triangular arrangement
+M34,ear of emmer
+M35,stack(of grain)
+M36,bundle of flax
+M37,bundle of flax
+M38,wide bundle of flax
+M39,basket of fruit or grain
+,
+,
+M40,bundle of reeds
+M40A,bundle of reeds
+M41,piece of wood
+M42,flower
+M43,vine on trellis
+M44,thorn
+N,
+N1,sky
+N2,sky with sceptre
+N3,sky with sceptre
+N4,sky with rain
+N5,sun
+N6,sun with uraeus
+N7,combination of sun and butcher's block
+N8,sunshine
+N9,moon with lower half obscured
+N10,moon with lower section obscured
+N11,crescent moon
+N12,crescent moon
+N13,combination of crescent moon and star
+N14,star
+N15,star in circle
+N16,land with grains
+N17,land
+N18,sandy tract
+N18A,combination of sandy tract and ripple of water
+N18B,combination of roll of bread and bolt
+N19,two sandy tracts
+N20,tongue of land
+N21,short tongue of land
+N22,broad tongue of land
+N23,irrigation canal
+N24,irrigation canal system
+N25,three hills
+N25A,three hills (low)
+N26,two hills
+N27,sun over mountain
+N28,rays of sun over hill
+N29,slope of hill
+N30,mound of earth
+N31,road with shrubs
+N32,lump of clay
+N33,grain
+N33A,three grains
+N34,ingot of metal
+N34A,ingot of metal
+N35,ripple of water
+N35A,three ripples of water
+N36,canal
+N37,pool
+N37A,pool
+N38,deep pool
+N39,pool with water
+N40,poolwith legs
+N41,well with ripple of water
+N42,well with line of water
+NL,
+NL1,
+NL2,
+NL3,
+NL4,
+NL5,
+NL5a,
+NL6,
+NL7,
+NL8,
+NL9,
+NL10,
+NL11,
+NL12,
+NL13,
+NL14,
+NL15,
+NL16,
+NL17,
+NL17a,
+NL18,
+NL19,
+NL20,
+NU,
+NU1,
+NU2,
+NU3,
+NU4,
+NU5,
+NU6,
+NU7,
+NU8,
+NU9,
+NU10,
+NU10a,
+NU11,
+NU11a,
+NU12,
+NU13,
+NU14,
+NU15,
+NU16,
+NU17,
+NU18,
+NU18a,
+NU19,
+NU20,
+NU21,
+NU22,
+NU22a,
+O,
+O1,house
+O1A,O1A
+O2,combination of house and mace with round head
+O3,"combination of house, oar, tall loaf and beer jug"
+O4,shelter
+O5,winding wall from upper-left corner
+O5A,winding wall from lower-left corner
+O6,enclosure
+O6A,opening of ḥwt-enclosure
+O6B,opening of ḥwt-enclosure
+O6C,opening of ḥwt-enclosure
+O6D,closing of ḥwt-enclosure
+O6E,closing of ḥwt-enclosure
+O6F,closing of ḥwt-enclosure
+O7,combination of enclosure and flat loaf
+O8,"combination of enclosure, flat loaf and wooden column"
+O9,"combination of enclosure, flat loaf and basket"
+O10,combination of enclosure and falcon
+O10A,combination of enclosure and ankh
+O10B,combination of enclosure and bee
+O10C,combination of shrine in profile and face
+O11,palace
+O12,combination of palace and forearm
+O13,battlemented enclosure
+O14,part of battlemented enclosure
+O15,enclosure with cup and flat loaf
+O16,gateway with serpents
+O17,open gateway with serpents
+O18,shrine in profile
+O19,shrine with fence
+O19A,shrine
+O20,shrine
+O20A,shrine
+O21,façade of shrine
+O22,booth with pole
+O23,double platform
+O24,pyramid
+O24A,pedestal of sun temple
+O25,obelisk
+O25A,obelisk and pedestal of sun temple
+O26,stela
+O27,hall of columns
+O28,column
+O29,horizontal wooden column
+O29A,vertical wooden column
+O30,support
+O30A,four supports
+O31,door
+O32,gateway
+O33,façade of palace
+O33A,closing of srḫ-enclosure
+O34,door bolt
+O35,combination of bolt and legs
+O36,wall
+O36A,opening of oval fortified wall enclosure
+O36B,closing of oval fortified wall enclosure
+O36C,opening of square fortified wall enclosure
+O36D,closure of square fortified wall enclosure
+O37,falling wall
+O38,corner of wall
+O39,stone
+O40,stair single
+O41,double stairway
+O42,fence
+O43,low fence
+O44,emblem of Min
+O45,domed building
+O46,domed building
+O47,enclosed mound
+O48,enclosed mound
+O49,village
+O50,threshing floor
+O50A,hieratic threshing floor
+O50B,O50A reversed
+O51,pile of grain
+P,
+P1,boat
+P1A,boat upside down
+P2,ship under sail
+P3,sacred barque
+P3A,sacred barque without steering oar
+P4,boat with net
+P5,sail
+P6,mast
+P7,combination of mast and forearm
+P8,oar
+P9,combination of oar and horned viper
+P10,rudder
+P11,mooringpost
+Q,
+Q1,seatthrone
+Q2,carryingchair
+Q3,stool
+Q4,headrest
+,
+,
+Q5,chest
+Q6,sarcophagus
+Q7,brazier
+R,
+R1,high table with offerings
+R2,table with slices of bread
+R2A,high table with offerings
+R3,low table with offerings
+R3A,low table
+R3B,low table with offerings (simplified)
+R4,loaf on mat
+R5,narrow censer
+R6,broad censer
+R7,bowl with smoke
+R8,Cloth on pole
+R9,combination of cloth on pole and bag
+R10,"combination of cloth on pole, butcher's block and slope of hill"
+R10A,combination of cloth on pole and butcher's block
+R11,reed column
+R12,standard
+R13,falcon and feather on standard
+R14,Emblemof the West
+R15,"spear, Emblem of the East"
+R16,sceptre with feathers and string
+R16A,sceptre with feathers
+R17,wig on pole
+R18,combination of wig on pole and irrigation canal system
+R19,scepter with feather
+R20,flower with horns
+R21,flower with horns
+R22,two narrow belemnites
+R23,two broad belemnites
+R24,two bows tied horizontally
+R25,two bows tied vertically
+R26,"combination of land, lung and windpipe, lily, and papyrus"
+R27,two arrows crossed over a shield
+R28,Bat
+R29,niche with serpent
+S,
+S1,white crown
+S2,combination of white crown and basket
+S2A,combination of white crown and village
+S3,red crown
+S4,combination of red crown and basket
+S5,Pschent Crown
+S6,combination of Pschent Crown and basket
+S6A,combination of red crown and village
+S7,blue crown
+S8,Atefcrown
+S9,shutitwo-featheradornment
+S10,headband
+S11,broad collar
+S12,collar of beads
+S13,combination of collar of beads and foot
+S14,combination of collar of beads and mace with round head
+S14A,combination of collar of beads and sceptre
+S14B,combination of collar of beads and sceptre
+S15,pectoral
+S16,pectoral
+S17,pectoral
+S17A,girdle
+S18,"""menatnecklaceandcounterpoise"""
+S19,sealwith necklace
+S20,necklace with seal
+S21,ring
+S22,shoulder-knot
+S23,two whipswith shen ring
+S24,girdle knot
+S25,garment with ties
+S26,apron
+S26A,apron
+S26B,apron
+S27,cloth with two strands
+S28,cloth with fringe on top and folded cloth
+S29,folded cloth
+S30,combination of folded cloth and horned viper
+S31,combination of folded cloth and sickle
+S32,cloth with fringe on the side
+S33,sandal
+S34,"lifeankh, possibly representing a sandal-strap"
+S35,sunshade
+S35A,sunshade
+S36,sunshade
+S37,fan
+S38,crook
+S39,shepherd's crook
+S40,wꜣssceptre(uꜣs)
+S41,sceptre
+S42,Sekhemscepter
+S43,walking stick
+S44,walking stick with flagellum
+S45,flagellum
+S46,covering for head and neck
+T,
+T1,mace with flat head
+T2,mace with round head
+T3,mace with round head
+T3A,combination of mace with round head and two hills
+T4,mace with strap
+T5,combination of mace with round head and cobra
+T6,combination of mace with round head and two cobras
+T7,axe
+T7A,axe
+T8,dagger
+T8A,dagger
+T9,bow
+T9A,bow
+T10,composite bow
+T11,arrow
+T11A,two crossed arrows
+T12,bowstring
+T13,joined pieces of wood
+T14,throw stick vertically
+T15,throw stick slanted
+T16,scimitar
+T16A,scimitar
+T17,chariot
+T18,crook with package attached
+T19,harpoon head
+T20,harpoon head
+T21,harpoon
+T22,arrowhead
+T23,arrowhead
+T24,fishingnet
+T25,float
+T26,birdtrap
+T27,trap
+T28,butcher's block
+T29,butcher's block with knife
+T30,knife
+T31,knife-sharpener
+T32,combination of knife-sharpener and legs
+T32A,combination of knife and folded cloth
+T33,knife-sharpener of butcher
+T33A,combination of knife-sharpener and folded cloth
+T34,butcher's knife
+T35,butcher's knife
+T36,shield
+U,
+U1,sickle
+U2,sickle
+U3,
+U4,
+U5,
+U6,
+U6A,
+U6B,
+U7,hoe
+U8,
+U9,
+U10,"grain measure (with plural, for grain particles)"
+U11,
+U12,
+U13,
+U14,
+U15,sled(sledge)
+U16,sled with jackal head
+U17,"Pick, opening earth"
+U18,
+U19,
+U20,
+U21,adze-on-block
+U22,"clapper-(of-bell)tool/instrumentforked-staff, etc."
+,
+,
+,
+U23,chisel
+U23A,
+U24,handdrill(hieroglyph)
+U25,
+U26,
+U27,
+U28,fire-drill
+U29,
+U29A,
+U30,kiln
+U31,
+U32,
+U32A,
+U33,'pestle'-(curved top)
+U34,
+U35,
+U36,fuller's-club
+U37,
+U38,scale
+U39,
+U40,a support-(to lift)
+U41,plummet
+U42,pitchfork
+V,
+V1,
+V1A,
+V1B,
+V1C,
+V1D,
+V1E,
+V1F,
+V1G,
+V1H,
+V1I,
+V2,
+V2A,
+V3,
+V4,lasso
+V5,
+V6,rope-(shape)
+V7,rope-(shape)
+V7A,
+V7B,
+V8,
+V9,shenring
+V10,cartouche
+V11,cartouche-(divided)
+V11A,
+V11B,
+V11C,
+V12,
+V12A,
+V12B,
+V13,tethering rope
+V14,
+V15,tethering rope w/ walking legs
+V16,cattlehobble(bil.)
+V17,lifesaver
+V18,
+V19,
+V20,"""cattle hobble"""
+V20A,
+V20B,
+V20C,
+V20D,
+V20E,
+V20F,
+V20G,
+V20H,
+V20I,
+V20J,
+V20K,
+V20L,
+V21,Fetter + Cobra
+V22,whip
+V23,
+V23A,
+V24,
+V25,"""command staff"""
+V26,
+V27,
+V28,a twisted wick
+V28A,
+V29,(fiber)swab(straw broom)
+V29A,
+V30,basket(hieroglyph)
+V30A,
+V31,basket-with-handle(hieroglyph)
+V31A,
+V32,
+V33,
+V33A,
+V34,
+V35,
+V36,doubled container(or-added-glyphs)many spellings
+,
+,
+V37,
+V37A,
+V38,
+V39,?stylized ankh(for Isis)(?)
+V40,
+V40A,
+W,
+W1,Oil jar
+W2,Oil-jar without ties
+W3,alabasterbasin
+W3A,alabasterbasin
+W4,"festival chamber, (the tail is also vertical 'Great': ꜥꜣ)"
+W5,
+W6,Metal vessel
+W7,Granite Bowl
+W8,Granite Bowl
+W9,stone jug
+W9A,
+W10,cup
+W10A,Pot
+W11,Jar stand
+W12,Jar stand
+W13,pot
+W14,water jar
+W14A,water jar with water
+W15,water jar with rack
+W16,water jar with rack
+W17,water jar with rack
+W17A,
+W18,water jar with rack
+W18A,
+W19,Milk jug with handle
+W20,Milk jug with cover
+W21,Wine jars
+W22,Beer jug
+W23,Beer jug
+W24,Pot
+W24A,three pots
+W25,Pot with legs
+X,
+X1,loaf of bread
+X2,
+X3,
+X4,
+X4A,
+X4B,
+X5,
+X6,loaf-with-decoration
+,
+,(or)
+X6A,
+X7,
+X8,cone-shapedbread
+X8A,
+Y,
+Y1,papyrusroll
+Y1A,
+Y2,
+Y3,Scribe's equipment
+Y4,Scribe's equipment
+Y5,Senet board
+Y6,game piece
+Y7,harp
+Y8,Sistrum
+Z,
+Z1,Single stroke
+Z2,Plural stroke (horizontal)
+Z2A,
+Z2B,
+Z2C,
+Z2D,
+Z3,plural strokes (vertical)
+Z3A,
+Z3B,
+Z4,Dual stroke
+Z4A,
+Z5,Diagonal stroke (from hieratic)
+Z5A,
+Z6,Substitute for various human figures
+Z7,coil(hieratic equivalent)
+Z8,Oval
+Z9,Crossed diagonal sticks
+Z10,Crossed diagonal sticks
+Z11,two planks crossed and joined
+Z12,
+Z13,
+Z14,
+Z15,
+Z15A,
+Z15B,
+Z15C,
+Z15D,
+Z15E,
+Z15F,
+Z15G,
+Z15H,
+Z15I,
+Z16,
+Z16A,
+Z16B,
+Z16C,
+Z16D,
+Z16E,
+Z16F,
+Z16G,
+Z16H,
+Aa,
+Aa1,Placenta or sieve
+Aa2,Pustule
+Aa3,Pustule with liquid issuing from it
+Aa4,
+Aa5,Part of steering gear of a ship
+Aa6,
+Aa7,A Smiting-Blade
+Aa7A,
+Aa7B,
+Aa8,Irrigation tunnels
+Aa9,
+Aa10,
+Aa11,
+Aa12,
+Aa13,
+Aa14,
+Aa15,Two ribs of an oryx
+Aa16,
+Aa17,
+Aa18,
+Aa19,
+Aa20,
+Aa21,
+Aa22,
+Aa23,
+Aa24,
+Aa25,
+Aa26,
+Aa27,
+Aa28,
+Aa29,
+Aa30,
+Aa31,
+Aa32,
