@@ -2,8 +2,8 @@
 This research-driven project aims to translate ancient Egyptian hieroglyphs into English using a deep learning pipeline. The system combines YOLOv8 for object detection, a custom-trained CNN for classifying the hieroglyphs, and LangChain with LLM to generate meaningful English translations.
 
 <p align="center">
-  <img src="Images/img.png" alt="Sample image with hieroglphs" width="400"/>
-  <img src="Images/detected.png" alt="YOLO detection" width="400"/>
+  <img src="Images/img.jpg" alt="Sample image with hieroglphs" width="300"/>
+  <img src="Images/detected.png" alt="YOLO detection" width="300"/>
 </p>
 
 
