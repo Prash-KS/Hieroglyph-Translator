@@ -18,6 +18,8 @@ Since the dataset lacked bounding box annotations required for YOLOv8, all image
 
 The CNN model showed some promising results and was able to classify the hieroglyphs fairly well. However, the limited amount of data available for such a complex task impacted the performance of the YOLO model. Although YOLO managed to detect the regions of interest, the lack of enough training data resulted in less accurate detections, making it harder for the model to generalize across different images. As a result, the detection quality wasn’t as high as expected.
 
+![YOLO Detection Example](Images/translation.PNG)
+
 The pre-trained GPT model used in this project was not able to generate sentences perfectly, as it had not been custom trained for the specific requirements of our project. While it provided useful translations, the results could have been more accurate and contextually appropriate with further fine-tuning on a dataset tailored to hieroglyphs and their meanings.
 
 ## Ongoing Work and Future Directions
