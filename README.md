@@ -14,7 +14,7 @@ The original dataset of individual hieroglyph images used for this project was s
 
 Since the dataset lacked bounding box annotations required for YOLOv8, all images were manually annotated using Roboflow to define regions of interest for detection tasks.
 
-# Future Work
+# Result
 
 The CNN model showed some promising results and was able to classify the hieroglyphs fairly well. However, the limited amount of data available for such a complex task impacted the performance of the YOLO model. Although YOLO managed to detect the regions of interest, the lack of enough training data resulted in less accurate detections, making it harder for the model to generalize across different images. As a result, the detection quality wasn’t as high as expected.
 
