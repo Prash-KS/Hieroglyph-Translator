@@ -1,7 +1,11 @@
 # Hieroglyph-Translator
 This research-driven project aims to translate ancient Egyptian hieroglyphs into English using a deep learning pipeline. The system combines YOLOv8 for object detection, a custom-trained CNN for classifying the hieroglyphs, and LangChain with LLM to generate meaningful English translations.
 
-![YOLO Detection Example](Images/detected.png)
+<p align="center">
+  <img src="Images/img.png" alt="Sample image with hieroglphs" width="400"/>
+  <img src="Images/detected.png" alt="YOLO detection" width="400"/>
+</p>
+
 
 The decision to use a detection-classification approach was made because there is no publicly available dataset for hieroglyphs that would allow for a sequence-to-sequence model. Although I initially considered using a sequence-to-sequence method to generate sentences directly, the lack of sufficient annotated data for this type of task made it an impractical solution.
 
